@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.zjl.myview.CheckTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    myattr:isSelected="false"
+    android:background="@drawable/text_view_selector"
+    android:text="hello world"
+    android:clickable="true"
+    xmlns:myattr="http://schemas.android.com/apk/res-auto"
+    >
+
+</com.example.zjl.myview.CheckTextView>

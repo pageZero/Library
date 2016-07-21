@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+    <!--tools:context="com.example.zjl.myapplication.LoginActivity"-->
+    <com.example.zjl.myview.CircularImage
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="40dp"
+        android:src="@drawable/face"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <ImageView
+                android:id="@+id/username_img"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@drawable/default_face"
+                android:layout_centerVertical="true"/>
+            <EditText
+                android:id="@+id/username_edit_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/username_img"
+                android:inputType="number"
+                android:hint="@string/userId"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <ImageView
+                android:id="@+id/password_img"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@drawable/key"
+                android:layout_centerVertical="true"/>
+            <EditText
+                android:id="@+id/password_edit_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/password_img"
+                android:inputType="textWebPassword"
+                android:hint="密码"/>
+
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="角色："
+                style="@style/TextHH1"
+                android:layout_gravity="center_vertical"/>
+            <Spinner
+                android:id="@+id/role_spinner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/login_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/INFOButtonStyle"
+            android:text="@string/login"/>
+        <TextView
+            android:id="@+id/forget_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="true"
+            android:text="@string/forget_password"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

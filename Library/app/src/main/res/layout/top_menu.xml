@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:background="@drawable/menu_bar"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="37dp"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/id_ll_personal_documents"
+            android:layout_width="3dp"
+            android:orientation="horizontal"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/id_tv_personal_documents"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/personal_documents"
+                android:textColor="#008000" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/id_ll_department_documents"
+            android:layout_width="3dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/id_tv_department_documents"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="@string/department_documents" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/id_ll_company_documents"
+            android:layout_width="3dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/id_tv_company_documents"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="@string/company_documents" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/id_ll_myDownload_documents"
+            android:layout_width="3dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/id_tv_myDownload_documents"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="@string/myDownload_documents" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

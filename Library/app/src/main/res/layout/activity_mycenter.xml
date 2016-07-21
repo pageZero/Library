@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff" >
+
+    <ImageView
+        android:id="@+id/id_img_center_return_right"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:clickable="true"
+        android:src="@drawable/return_right"
+        />
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_centerVertical="true">
+            <ImageView
+
+                android:id="@+id/id_center_img_user"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/big_face" />
+
+            <TextView
+                android:id="@+id/id_center_tv_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="10dp"
+                android:layout_below="@id/id_center_img_user"
+                style="@style/TextH1"
+                android:text="ID0000000"
+                 />
+            <TextView
+                android:id="@+id/tv"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_below="@+id/id_center_tv_id"
+                style="@style/TextH2"
+                android:background="@drawable/normal_text_view_shape"
+                android:text="下载路径："
+                />
+            <TextView
+                android:id="@+id/center_download_path"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_below="@+id/tv"
+                style="@style/TextH2"
+                android:background="@drawable/normal_text_view_shape"
+                android:text="@string/app_name"
+                />
+
+        </RelativeLayout>
+
+    <Button
+        android:id="@+id/id_center_logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"
+        android:layout_alignParentBottom="true"
+
+        android:text="退 出 登 录"
+        style="@style/INFOButtonStyle" />
+
+</RelativeLayout>

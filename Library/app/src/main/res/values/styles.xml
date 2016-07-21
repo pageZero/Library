@@ -1,0 +1,121 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- 一级标题的样式 -->
+    <style name="TextH1WRITE">
+        <item name="android:textColor">@color/text_write</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:gravity">center|left</item>
+    </style>
+    <!-- 一级标题的样式 -->
+    <style name="TextH1">
+        <item name="android:textColor">@color/text_color_h1</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:gravity">center|left</item>
+    </style>
+    <!-- 一级标题的样式 -->
+    <style name="TextHH1">
+        <item name="android:textColor">@color/text_color_h2</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:gravity">center|left</item>
+    </style>
+    <!-- 二级标题的样式 -->
+    <style name="TextH2">
+        <item name="android:textColor">@color/text_color_h2</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center|left</item>
+    </style>
+    <!-- 三级标题的样式 -->
+    <style name="TextH3">
+        <item name="android:textColor">@color/text_color_h3</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:gravity">center|left</item>
+    </style>
+
+    <!-- 四级标题的样式 -->
+    <style name="TextH4">
+        <item name="android:textSize">9sp</item>
+        <item name="android:gravity">center|left</item>
+    </style>
+
+    <!-- 蓝色按钮样式 -->
+    <style name="BlueButtonStyle1">
+        <item name="android:background">@drawable/background_button_blue1</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <!-- 蓝色按钮样式 -->
+    <style name="BlueButtonStyle2">
+        <item name="android:background">@drawable/background_button_blue2</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <!-- 蓝色按钮样式 -->
+    <style name="BlueButtonStyle3">
+        <item name="android:background">@drawable/background_button_blue33</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <!-- 红色按钮样式 -->
+    <style name="RedButtonStyle">
+        <item name="android:background">@drawable/background_button_red</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <!-- 按钮样式 -->
+    <style name="INFOButtonStyle">
+        <item name="android:background">@drawable/background_button_info</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <!-- 按钮样式 -->
+    <style name="DANGERButtonStyle">
+        <item name="android:background">@drawable/background_button_danger</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <!-- 按钮样式 -->
+    <style name="SUEECSSButtonStyle">
+        <item name="android:background">@drawable/background_button_success</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <!-- 按钮样式 -->
+    <style name="INFOButtonFillStyle">
+        <item name="android:background">@drawable/background_button_fill_info</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <!-- 按钮样式 -->
+    <style name="DANGERButtonFillStyle">
+        <item name="android:background">@drawable/background_button_fill_danger</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <!-- 按钮样式 -->
+    <style name="SUEECSSButtonFillStyle">
+        <item name="android:background">@drawable/background_button_fill_success</item>
+        <item name="android:textColor">@color/text_color_defaut</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <!-- 主页下拉刷新列表样式 -->
+    <style name="MainRefreshList">
+        <item name="android:cacheColorHint">@null</item>
+        <item name="android:listSelector">@null</item>
+        <item name="android:footerDividersEnabled">false</item>
+        <item name="android:headerDividersEnabled">false</item>
+        <item name="android:fastScrollEnabled">false</item>
+        <item name="android:smoothScrollbar">true</item>
+        <item name="android:fadingEdge">none</item>
+    </style>
+
+</resources>

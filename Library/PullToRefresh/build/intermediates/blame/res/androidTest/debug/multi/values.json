@@ -1,0 +1,292 @@
+[
+    {
+        "outputFile": "C:\\Users\\zjl\\AndroidStudioProject\\MyApplication\\PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 1511,
+                    "endColumn": 41,
+                    "endOffset": 1548
+                },
+                "from": {
+                    "file": "C:\\Users\\zjl\\AndroidStudioProject\\MyApplication\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 1511,
+                        "endColumn": 41,
+                        "endOffset": 1548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 1553,
+                    "endColumn": 63,
+                    "endOffset": 1612
+                },
+                "from": {
+                    "file": "C:\\Users\\zjl\\AndroidStudioProject\\MyApplication\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 1553,
+                        "endColumn": 63,
+                        "endOffset": 1612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 1617,
+                    "endColumn": 63,
+                    "endOffset": 1676
+                },
+                "from": {
+                    "file": "C:\\Users\\zjl\\AndroidStudioProject\\MyApplication\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 1617,
+                        "endColumn": 63,
+                        "endOffset": 1676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 1681,
+                    "endColumn": 54,
+                    "endOffset": 1731
+                },
+                "from": {
+                    "file": "C:\\Users\\zjl\\AndroidStudioProject\\MyApplication\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 1681,
+                        "endColumn": 54,
+                        "endOffset": 1731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 1736,
+                    "endColumn": 56,
+                    "endOffset": 1788
+                },
+                "from": {
+                    "file": "C:\\Users\\zjl\\AndroidStudioProject\\MyApplication\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 1736,
+                        "endColumn": 56,
+                        "endOffset": 1788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1793,
+                    "endColumn": 54,
+                    "endOffset": 1843
+                },
+                "from": {
+                    "file": "C:\\Users\\zjl\\AndroidStudioProject\\MyApplication\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1793,
+                        "endColumn": 54,
+                        "endOffset": 1843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1848,
+                    "endColumn": 37,
+                    "endOffset": 1881
+                },
+                "from": {
+                    "file": "C:\\Users\\zjl\\AndroidStudioProject\\MyApplication\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1848,
+                        "endColumn": 37,
+                        "endOffset": 1881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1886,
+                    "endColumn": 39,
+                    "endOffset": 1921
+                },
+                "from": {
+                    "file": "C:\\Users\\zjl\\AndroidStudioProject\\MyApplication\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1886,
+                        "endColumn": 39,
+                        "endOffset": 1921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1926,
+                    "endColumn": 36,
+                    "endOffset": 1958
+                },
+                "from": {
+                    "file": "C:\\Users\\zjl\\AndroidStudioProject\\MyApplication\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1926,
+                        "endColumn": 36,
+                        "endOffset": 1958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1963,
+                    "endColumn": 101,
+                    "endOffset": 2060
+                },
+                "from": {
+                    "file": "C:\\Users\\zjl\\AndroidStudioProject\\MyApplication\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1963,
+                        "endColumn": 101,
+                        "endOffset": 2060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2065,
+                    "endColumn": 113,
+                    "endOffset": 2174
+                },
+                "from": {
+                    "file": "C:\\Users\\zjl\\AndroidStudioProject\\MyApplication\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 2065,
+                        "endColumn": 113,
+                        "endOffset": 2174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2179,
+                    "endColumn": 107,
+                    "endOffset": 2282
+                },
+                "from": {
+                    "file": "C:\\Users\\zjl\\AndroidStudioProject\\MyApplication\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2179,
+                        "endColumn": 107,
+                        "endOffset": 2282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2287,
+                    "endColumn": 71,
+                    "endOffset": 2354
+                },
+                "from": {
+                    "file": "C:\\Users\\zjl\\AndroidStudioProject\\MyApplication\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2287,
+                        "endColumn": 71,
+                        "endOffset": 2354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2359,
+                    "endColumn": 69,
+                    "endOffset": 2424
+                },
+                "from": {
+                    "file": "C:\\Users\\zjl\\AndroidStudioProject\\MyApplication\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2359,
+                        "endColumn": 69,
+                        "endOffset": 2424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2429,
+                    "endColumn": 77,
+                    "endOffset": 2502
+                },
+                "from": {
+                    "file": "C:\\Users\\zjl\\AndroidStudioProject\\MyApplication\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2429,
+                        "endColumn": 77,
+                        "endOffset": 2502
+                    }
+                }
+            }
+        ]
+    }
+]

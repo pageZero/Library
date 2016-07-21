@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">My Library</string>
+
+    <string-array name="librarys">
+        <item>公司文库</item>
+        <item>部门文库</item>
+        <item>个人文库</item>
+    </string-array>
+
+    <string-array name="librarys_en">
+        <item>CL</item>
+        <item>DL</item>
+        <item>PL</item>
+    </string-array>
+
+    <string-array name="roles">
+        <item>普通员工</item>
+        <item>公司领导</item>
+        <item>部门经理</item>
+    </string-array>
+
+    <string-array name="roles_en">
+        <item>Common</item>
+        <item>Admin</item>
+        <item>Leader</item>
+    </string-array>
+
+    <string name="personal_documents">个人文库</string>
+    <string name="department_documents">部门文库</string>
+    <string name="company_documents">公司文库</string>
+    <string name="myDownload_documents">我的下载</string>
+
+    <string name="doc_author">作 者:</string>
+    <string name="download_doc">下 载</string>
+    <string name="share_button">分 享</string>
+
+    <string name= "userId">工号</string>
+    <string name= "password">密码</string>
+    <string name= "role">角色</string>
+    <string name= "login">登    录</string>
+    <string name= "forget_password">忘记密码?</string>
+
+    <string name= "date">日期</string>
+
+
+</resources>
